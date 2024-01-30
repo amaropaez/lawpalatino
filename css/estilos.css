@@ -1198,12 +1198,14 @@ form input {
     overflow: hidden;
 }
 
-/*
-@media (max-width: 480px) {
-    main{
-        width: 100%;
+
+@media (max-width: 300px) {
+    .box {
+        width: 60%;
     }
 }
+
+
 
 /****PIE DE PAGINA***/
 
@@ -1286,3 +1288,5 @@ form input {
 
 
 }
+
+
